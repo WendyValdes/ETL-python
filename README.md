@@ -1,8 +1,3 @@
-# =========================
-# 📄 GERAR README.md
-# =========================
-
-readme_content = """
 # 🚀 ETL com Python | Santander Dev Week 2023 (Adaptado)
 
 ## 📌 Sobre o Projeto
